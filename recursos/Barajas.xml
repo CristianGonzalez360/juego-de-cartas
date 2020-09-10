@@ -1,0 +1,3041 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cartas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<baraja>
+		<idBaraja>7</idBaraja>
+		<nombre>Invocados</nombre>
+		<carta>
+			<idCarta>225</idCarta>
+			<nombre>Bovine Defense Force</nombre>
+			<valor>8</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>198</idCarta>
+			<nombre>Hemdall</nombre>
+			<valor>11</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>211</idCarta>
+			<nombre>Transformed Vildkaarl</nombre>
+			<valor>14</valor>
+			<efectoEntrada>1</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>212</idCarta>
+			<nombre>Transformed Young Vildkaarl</nombre>
+			<valor>8</valor>
+			<efectoEntrada>9</efectoEntrada>	
+			<posicion>1</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>213</cartaRelacionada>
+			<cartaRelacionada>214</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>213</idCarta>
+			<nombre>Transformed Young Vildkaarl</nombre>
+			<valor>8</valor>
+			<efectoEntrada>9</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>212</cartaRelacionada>
+			<cartaRelacionada>214</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>214</idCarta>
+			<nombre>Transformed Young Vildkaarl</nombre>
+			<valor>8</valor>
+			<efectoEntrada>9</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>212</cartaRelacionada>
+			<cartaRelacionada>213</cartaRelacionada>
+		</carta>
+	</baraja>
+	<baraja>
+		<idBaraja>0</idBaraja>
+		<nombre>Reinos del Norte</nombre>
+		<carta>
+			<idCarta>1</idCarta>
+			<nombre>Ballista 1</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>2</idCarta>
+			<nombre>Ballista 2</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>3</idCarta>
+			<nombre>John Natalis</nombre>
+			<valor>10</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>4</idCarta>
+			<nombre>Esterad Thyssen</nombre>
+			<valor>10</valor>
+			<efectoEntrada>-1</efectoEntrada>	
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>5</idCarta>
+			<nombre>Dun Banner Medic</nombre>
+			<valor>5</valor>
+			<efectoEntrada>0</efectoEntrada>			
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>6</idCarta>
+			<nombre>Dun Banner Medic</nombre>
+			<valor>5</valor>
+			<efectoEntrada>0</efectoEntrada>			
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>7</idCarta>
+			<nombre>Philippa Eilhart</nombre>
+			<valor>10</valor>
+			<efectoEntrada>-1</efectoEntrada>		
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>8</idCarta>
+			<nombre>Poor Fucking Infantry 1</nombre>
+			<valor>1</valor>
+			<efectoEntrada>9</efectoEntrada>			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>9</cartaRelacionada>
+			<cartaRelacionada>10</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>9</idCarta>
+			<nombre>Poor Fucking Infantry 2</nombre>
+			<valor>1</valor>
+			<efectoEntrada>9</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>8</cartaRelacionada>
+			<cartaRelacionada>10</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>10</idCarta>
+			<nombre>Poor Fucking Infantry 3</nombre>
+			<valor>1</valor>
+			<efectoEntrada>9</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>8</cartaRelacionada>
+			<cartaRelacionada>9</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>11</idCarta>
+			<nombre>Kaedweni Siege Expert 1</nombre>
+			<valor>1</valor>
+			<efectoEntrada>1</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>12</idCarta>
+			<nombre>Kaedweni Siege Expert 2</nombre>
+			<valor>1</valor>
+			<efectoEntrada>1</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>13</idCarta>
+			<nombre>Kaedweni Siege Expert 3</nombre>
+			<valor>1</valor>
+			<efectoEntrada>1</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>14</idCarta>
+			<nombre>Redanian Foot Soldier 1</nombre>
+			<valor>1</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>15</idCarta>
+			<nombre>Redanian Foot Soldier 2</nombre>
+			<valor>1</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>16</idCarta>
+			<nombre>Blue Stripes Commando 1</nombre>
+			<valor>4</valor>
+			<efectoEntrada>9</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>17</cartaRelacionada>
+			<cartaRelacionada>18</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>17</idCarta>
+			<nombre>Blue Stripes Commando 2</nombre>
+			<valor>4</valor>
+			<efectoEntrada>9</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>16</cartaRelacionada>
+			<cartaRelacionada>18</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>18</idCarta>
+			<nombre>Blue Stripes Commando 3</nombre>
+			<valor>4</valor>
+			<efectoEntrada>9</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>16</cartaRelacionada>
+			<cartaRelacionada>17</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>19</idCarta>
+			<nombre>Prince Stennis</nombre>
+			<valor>5</valor>
+			<efectoEntrada>2</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>true</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>20</idCarta>
+			<nombre>Keira Metz</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>21</idCarta>
+			<nombre>Vernon Roche</nombre>
+			<valor>10</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>22</idCarta>
+			<nombre>Trebuchet 1</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>23</idCarta>
+			<nombre>Trebuchet 2</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>24</idCarta>
+			<nombre>Thaler</nombre>
+			<valor>1</valor>
+			<efectoEntrada>2</efectoEntrada>
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>true</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>25</idCarta>
+			<nombre>Sile de Tansarville</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>26</idCarta>
+			<nombre>Sigismund Dijkstra</nombre>
+			<valor>4</valor>
+			<efectoEntrada>2</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>true</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>27</idCarta>
+			<nombre>Siegfried of Denesle</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>28</idCarta>
+			<nombre>Siegfried of Denesle</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>29</idCarta>
+			<nombre>Siege Tower</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>30</idCarta>
+			<nombre>Yarpen Zigrin</nombre>
+			<valor>2</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>31</idCarta>
+			<nombre>Ves</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>32</idCarta>
+			<nombre>Sabrina Glevissig</nombre>
+			<valor>4</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>33</idCarta>
+			<nombre>Crinfrid Reavers Dragon Hunter 1</nombre>
+			<valor>5</valor>
+			<efectoEntrada>9</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>34</cartaRelacionada>
+			<cartaRelacionada>35</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>34</idCarta>
+			<nombre>Crinfrid Reavers Dragon Hunter 2</nombre>
+			<valor>5</valor>
+			<efectoEntrada>9</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>33</cartaRelacionada>
+			<cartaRelacionada>35</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>35</idCarta>
+			<nombre>Crinfrid Reavers Dragon Hunter 3</nombre>
+			<valor>5</valor>
+			<efectoEntrada>9</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>33</cartaRelacionada>
+			<cartaRelacionada>34</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>36</idCarta>
+			<nombre>Catapult</nombre>
+			<valor>8</valor>
+			<efectoEntrada>9</efectoEntrada>
+			<posicion>2</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>37</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>37</idCarta>
+			<nombre>Catapult</nombre>
+			<valor>8</valor>
+			<efectoEntrada>9</efectoEntrada>
+			<posicion>2</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>36</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>38</idCarta>
+			<nombre>Dethmold</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>39</idCarta>
+			<nombre>Sheldon Skaggs</nombre>
+			<valor>4</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>40</idCarta>
+			<nombre>Foltest the Steel-Forged</nombre>
+			<posicion>4</posicion>
+			<efectoEntrada>10</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+		<carta>
+			<idCarta>41</idCarta>
+			<nombre>Foltest the Siegemaster</nombre>
+			<posicion>1</posicion>
+			<efectoEntrada>12</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+		<carta>
+			<idCarta>42</idCarta>
+			<nombre>Foltest Lord Commander of the North</nombre>
+			<posicion>2</posicion>
+			<efectoEntrada>3</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+		<carta>
+			<idCarta>43</idCarta>
+			<nombre>Foltest King of Temeria</nombre>
+			<posicion>2</posicion>
+			<efectoEntrada>4</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+		<carta>
+			<idCarta>44</idCarta>
+			<nombre>Foltest Son of Medell</nombre>
+			<posicion>1</posicion>
+			<efectoEntrada>3</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+	</baraja>
+	<baraja>
+		<idBaraja>1</idBaraja>
+		<nombre>Nilfgaard</nombre>
+		<carta>
+			<idCarta>45</idCarta>
+			<nombre>Heavy Zerrikanian Fire Scorpion</nombre>
+			<valor>10</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>46</idCarta>
+			<nombre>Fringilla Vigo</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>47</idCarta>
+			<nombre>Etolian Auxiliary Archers 1</nombre>
+			<valor>1</valor>
+			<efectoEntrada>0</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>48</idCarta>
+			<nombre>Etolian Auxiliary Archers 2</nombre>
+			<valor>1</valor>
+			<efectoEntrada>0</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>49</idCarta>
+			<nombre>Cynthia</nombre>
+			<valor>4</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>50</idCarta>
+			<nombre>Cahir Mawr Dyffryn aep Ceallach</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>51</idCarta>
+			<nombre>Black Infantery Archer 1</nombre>
+			<valor>10</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>52</idCarta>
+			<nombre>Black Infantery Archer 2</nombre>
+			<valor>10</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>53</idCarta>
+			<nombre>Assire var Anahid</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>54</idCarta>
+			<nombre>Impera Brigade Guard 1</nombre>
+			<valor>3</valor>
+			<efectoEntrada>9</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>55</cartaRelacionada>
+			<cartaRelacionada>56</cartaRelacionada>
+			<cartaRelacionada>57</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>55</idCarta>
+			<nombre>Impera Brigade Guard 2</nombre>
+			<valor>3</valor>
+			<efectoEntrada>9</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>54</cartaRelacionada>
+			<cartaRelacionada>56</cartaRelacionada>
+			<cartaRelacionada>57</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>56</idCarta>
+			<nombre>Impera Brigade Guard 3</nombre>
+			<valor>3</valor>
+			<efectoEntrada>9</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>54</cartaRelacionada>
+			<cartaRelacionada>55</cartaRelacionada>
+			<cartaRelacionada>57</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>57</idCarta>
+			<nombre>Impera Brigade Guard 4</nombre>
+			<valor>3</valor>
+			<efectoEntrada>9</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>54</cartaRelacionada>
+			<cartaRelacionada>55</cartaRelacionada>
+			<cartaRelacionada>56</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>58</idCarta>
+			<nombre>Nausicaa Cavalry Rider 1</nombre>
+			<valor>2</valor>
+			<efectoEntrada>9</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>59</cartaRelacionada>
+			<cartaRelacionada>60</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>59</idCarta>
+			<nombre>Nausicaa Cavalry Rider 2</nombre>
+			<valor>2</valor>
+			<efectoEntrada>9</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>58</cartaRelacionada>
+			<cartaRelacionada>60</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>60</idCarta>
+			<nombre>Nausicaa Cavalry Rider 3</nombre>
+			<valor>2</valor>
+			<efectoEntrada>9</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>58</cartaRelacionada>
+			<cartaRelacionada>59</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>61</idCarta>
+			<nombre>Morteisen</nombre>
+			<valor>3</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>62</idCarta>
+			<nombre>Menno Coehoorn</nombre>
+			<valor>10</valor>
+			<efectoEntrada>0</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>63</idCarta>
+			<nombre>Letho of Gulet</nombre>
+			<valor>10</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>64</idCarta>
+			<nombre>Tibor Eggebracht</nombre>
+			<valor>10</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>65</idCarta>
+			<nombre>Sweers</nombre>
+			<valor>2</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>66</idCarta>
+			<nombre>Stefan Skellen</nombre>
+			<valor>9</valor>
+			<efectoEntrada>2</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>true</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>67</idCarta>
+			<nombre>Siege Technician</nombre>
+			<valor>0</valor>
+			<efectoEntrada>0</efectoEntrada>
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>68</idCarta>
+			<nombre>Siege Technician</nombre>
+			<valor>0</valor>
+			<efectoEntrada>0</efectoEntrada>
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>69</idCarta>
+			<nombre>Siege Engineer</nombre>
+			<valor>0</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>70</idCarta>
+			<nombre>Shilard Fitz-Oesterlen</nombre>
+			<valor>7</valor>
+			<efectoEntrada>2</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>true</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>71</idCarta>
+			<nombre>Renuald aep Matsen</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>72</idCarta>
+			<nombre>Puttkammer</nombre>
+			<valor>3</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>73</idCarta>
+			<nombre>Puttkammer</nombre>
+			<valor>3</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>74</idCarta>
+			<nombre>Zerrikanian Fire Scorpion</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>75</idCarta>
+			<nombre>Albrich</nombre>
+			<valor>2</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>76</idCarta>
+			<nombre>Young Emissary 1</nombre>
+			<valor>5</valor>
+			<efectoEntrada>9</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>77</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>77</idCarta>
+			<nombre>Young Emissary 2</nombre>
+			<valor>5</valor>
+			<efectoEntrada>9</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>76</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>78</idCarta>
+			<nombre>Vreemde</nombre>
+			<valor>2</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>79</idCarta>
+			<nombre>Vattier de Rideaux</nombre>
+			<valor>4</valor>
+			<efectoEntrada>2</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>true</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>80</idCarta>
+			<nombre>Vanhemar</nombre>
+			<valor>4</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>81</idCarta>
+			<nombre>Morvran Voorhis</nombre>
+			<valor>10</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>82</idCarta>
+			<nombre>Rotten Mangonel</nombre>
+			<valor>3</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>83</idCarta>
+			<nombre>Rotten Mangonel</nombre>
+			<valor>3</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>84</idCarta>
+			<nombre>Rainfarn</nombre>
+			<valor>4</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>85</idCarta>
+			<nombre>Emhyr var Emreis the Relentless</nombre>
+			<posicion>2</posicion>
+			<efectoEntrada>15</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+		<carta>
+			<idCarta>86</idCarta>
+			<nombre>Emhyr var Emreis the White Flame</nombre>
+			<posicion>0</posicion>
+			<efectoEntrada>14</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+		<carta>
+			<idCarta>87</idCarta>
+			<nombre>Emhyr var Emreis His Imperial Majesty</nombre>
+			<posicion>2</posicion>
+			<efectoEntrada>12</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+		<carta>
+			<idCarta>88</idCarta>
+			<nombre>Emhyr var Emreis Emperor of Nilfgaard</nombre>
+			<posicion>2</posicion>
+			<efectoEntrada>13</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+		<carta>
+			<idCarta>89</idCarta>
+			<nombre>Emhyr var Emreis Invader of the North</nombre>
+			<posicion>0</posicion>
+			<efectoEntrada>16</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+	</baraja>
+	<baraja>
+		<idBaraja>2</idBaraja>
+		<nombre>Monstruos</nombre>
+		<carta>
+			<idCarta>90</idCarta>
+			<nombre>Celaeno Harpy</nombre>
+			<valor>2</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>-1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>true</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>91</idCarta>
+			<nombre>Cockatrice</nombre>
+			<valor>2</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>92</idCarta>
+			<nombre>Crone Whispess</nombre>
+			<valor>6</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>93</cartaRelacionada>
+			<cartaRelacionada>94</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>93</idCarta>
+			<nombre>Crone Weavess</nombre>
+			<valor>6</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>92</cartaRelacionada>
+			<cartaRelacionada>94</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>94</idCarta>
+			<nombre>Crone Brewess</nombre>
+			<valor>6</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>92</cartaRelacionada>
+			<cartaRelacionada>93</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>95</idCarta>
+			<nombre>Botchling</nombre>
+			<valor>4</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>96</idCarta>
+			<nombre>Arachas 1</nombre>
+			<valor>4</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>97</cartaRelacionada>
+			<cartaRelacionada>98</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>97</idCarta>
+			<nombre>Arachas 2</nombre>
+			<valor>4</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>96</cartaRelacionada>
+			<cartaRelacionada>98</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>98</idCarta>
+			<nombre>Arachas 3</nombre>
+			<valor>4</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>96</cartaRelacionada>
+			<cartaRelacionada>97</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>99</idCarta>
+			<nombre>Arachas Behemoth</nombre>
+			<valor>6</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>96</cartaRelacionada>
+			<cartaRelacionada>97</cartaRelacionada>
+			<cartaRelacionada>98</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>100</idCarta>
+			<nombre>Draug</nombre>
+			<valor>10</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>101</idCarta>
+			<nombre>Earth Elemental</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>102</idCarta>
+			<nombre>Plague Maiden</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>103</idCarta>
+			<nombre>Nekker 1</nombre>
+			<valor>2</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>104</cartaRelacionada>
+			<cartaRelacionada>105</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>104</idCarta>
+			<nombre>Nekker 2</nombre>
+			<valor>2</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>103</cartaRelacionada>
+			<cartaRelacionada>105</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>105</idCarta>
+			<nombre>Nekker 3</nombre>
+			<valor>2</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>103</cartaRelacionada>
+			<cartaRelacionada>104</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>106</idCarta>
+			<nombre>Leshen</nombre>
+			<valor>10</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>107</idCarta>
+			<nombre>Kayran</nombre>
+			<valor>8</valor>
+			<efectoEntrada>1</efectoEntrada>
+			
+			<posicion>-1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>true</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>108</idCarta>
+			<nombre>Imlerith</nombre>
+			<valor>10</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>109</idCarta>
+			<nombre>Ice Giant</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>110</idCarta>
+			<nombre>Harpy</nombre>
+			<valor>2</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>-1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>true</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>111</idCarta>
+			<nombre>Griffin</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>112</idCarta>
+			<nombre>Foglet</nombre>
+			<valor>2</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>113</idCarta>
+			<nombre>Wyvern</nombre>
+			<valor>2</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>114</idCarta>
+			<nombre>Werewolf</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>115</idCarta>
+			<nombre>Vampire Garkain</nombre>
+			<valor>4</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>116</cartaRelacionada>
+			<cartaRelacionada>117</cartaRelacionada>
+			<cartaRelacionada>118</cartaRelacionada>
+			<cartaRelacionada>119</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>116</idCarta>
+			<nombre>Vampire Fleder</nombre>
+			<valor>4</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>115</cartaRelacionada>
+			<cartaRelacionada>117</cartaRelacionada>
+			<cartaRelacionada>118</cartaRelacionada>
+			<cartaRelacionada>119</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>117</idCarta>
+			<nombre>Vampire Ekimmara</nombre>
+			<valor>4</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>115</cartaRelacionada>
+			<cartaRelacionada>116</cartaRelacionada>
+			<cartaRelacionada>118</cartaRelacionada>
+			<cartaRelacionada>119</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>118</idCarta>
+			<nombre>Vampire Bruxa</nombre>
+			<valor>4</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>115</cartaRelacionada>
+			<cartaRelacionada>116</cartaRelacionada>
+			<cartaRelacionada>117</cartaRelacionada>
+			<cartaRelacionada>119</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>119</idCarta>
+			<nombre>Vampire Katakan</nombre>
+			<valor>5</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>115</cartaRelacionada>
+			<cartaRelacionada>116</cartaRelacionada>
+			<cartaRelacionada>117</cartaRelacionada>
+			<cartaRelacionada>118</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>120</idCarta>
+			<nombre>Grave Hag</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>121</idCarta>
+			<nombre>Ghoul 1</nombre>
+			<valor>1</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>122</cartaRelacionada>
+			<cartaRelacionada>123</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>122</idCarta>
+			<nombre>Ghoul 2</nombre>
+			<valor>1</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>121</cartaRelacionada>
+			<cartaRelacionada>123</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>123</idCarta>
+			<nombre>Ghoul 3</nombre>
+			<valor>1</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>121</cartaRelacionada>
+			<cartaRelacionada>122</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>124</idCarta>
+			<nombre>Gargoyle</nombre>
+			<valor>2</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>125</idCarta>
+			<nombre>Frightener</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>126</idCarta>
+			<nombre>Forktail</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>127</idCarta>
+			<nombre>Fire Elemental</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>128</idCarta>
+			<nombre>Fiend</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>129</idCarta>
+			<nombre>Endrega</nombre>
+			<valor>2</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>130</idCarta>
+			<nombre>Toad</nombre>
+			<valor>7</valor>
+			<efectoEntrada>3</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>131</idCarta>
+			<nombre>Eredin Commander of the Red Riders</nombre>
+			<posicion>0</posicion>
+			<efectoEntrada>4</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+		<carta>
+			<idCarta>132</idCarta>
+			<nombre>Eredin Bringer of Death</nombre>
+			<posicion>0</posicion>
+			<efectoEntrada>17</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+		<carta>
+			<idCarta>133</idCarta>
+			<nombre>Eredin King of the Wild Hunt</nombre>
+			<posicion>4</posicion>
+			<efectoEntrada>12</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+		<carta>
+			<idCarta>134</idCarta>
+			<nombre>Eredin Destroyer of Worlds</nombre>
+			<posicion>2</posicion>
+			<efectoEntrada>19</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+		<carta>
+			<idCarta>135</idCarta>
+			<nombre>Eredin Breacc Glas The Treacherous</nombre>
+			<posicion>0</posicion>
+			<efectoEntrada>18</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+	</baraja>
+	<baraja>
+		<idBaraja>3</idBaraja>
+		<nombre>Scoiatael</nombre>
+		<carta>
+			<idCarta>136</idCarta>
+			<nombre>Eithne</nombre>
+			<valor>10</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>137</idCarta>
+			<nombre>Dol Blathanna Scout 1</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>-1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>true</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>138</idCarta>
+			<nombre>Dol Blathanna Scout 2</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>-1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>true</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>139</idCarta>
+			<nombre>Dol Blathanna Scout 3</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>-1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>true</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>140</idCarta>
+			<nombre>Yaevinn</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>-1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>true</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>141</idCarta>
+			<nombre>Dennis Cranmer</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>142</idCarta>
+			<nombre>Ciaran aep Easnillien</nombre>
+			<valor>3</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>-1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>true</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>143</idCarta>
+			<nombre>Barclay Els</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>-1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>true</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>144</idCarta>
+			<nombre>Dwarven Skirmisher 1</nombre>
+			<valor>3</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>145</cartaRelacionada>
+			<cartaRelacionada>146</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>145</idCarta>
+			<nombre>Dwarven Skirmisher 2</nombre>
+			<valor>3</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>144</cartaRelacionada>
+			<cartaRelacionada>146</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>146</idCarta>
+			<nombre>Dwarven Skirmisher 3</nombre>
+			<valor>3</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>144</cartaRelacionada>
+			<cartaRelacionada>145</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>147</idCarta>
+			<nombre>Havekar Healer 1</nombre>
+			<valor>0</valor>
+			<efectoEntrada>0</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>148</idCarta>
+			<nombre>Havekar Healer 2</nombre>
+			<valor>0</valor>
+			<efectoEntrada>0</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>149</idCarta>
+			<nombre>Havekar Healer 3</nombre>
+			<valor>0</valor>
+			<efectoEntrada>0</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>150</idCarta>
+			<nombre>Filavandrel aen Fidhail</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>-1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>true</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>151</idCarta>
+			<nombre>Elven Skirmisher 1</nombre>
+			<valor>2</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>152</cartaRelacionada>
+			<cartaRelacionada>153</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>152</idCarta>
+			<nombre>Elven Skirmisher 2</nombre>
+			<valor>2</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>151</cartaRelacionada>
+			<cartaRelacionada>153</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>153</idCarta>
+			<nombre>Elven Skirmisher 3</nombre>
+			<valor>2</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>151</cartaRelacionada>
+			<cartaRelacionada>152</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>154</idCarta>
+			<nombre>Isengrim Faolitarna</nombre>
+			<valor>10</valor>
+			<efectoEntrada>1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>155</idCarta>
+			<nombre>Iorveth</nombre>
+			<valor>10</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>156</idCarta>
+			<nombre>Ida Emean aep Sivney</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>157</idCarta>
+			<nombre>Havekar Smuggler 1</nombre>
+			<valor>5</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>158</cartaRelacionada>
+			<cartaRelacionada>159</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>158</idCarta>
+			<nombre>Havekar Smuggler 2</nombre>
+			<valor>5</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>157</cartaRelacionada>
+			<cartaRelacionada>159</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>159</idCarta>
+			<nombre>Havekar Smuggler 3</nombre>
+			<valor>5</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>157</cartaRelacionada>
+			<cartaRelacionada>158</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>160</idCarta>
+			<nombre>Toruviel</nombre>
+			<valor>2</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>161</idCarta>
+			<nombre>Saesenthessis</nombre>
+			<valor>10</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>162</idCarta>
+			<nombre>Riordain</nombre>
+			<valor>1</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>163</idCarta>
+			<nombre>Riordain</nombre>
+			<valor>1</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>164</idCarta>
+			<nombre>Milva</nombre>
+			<valor>10</valor>
+			<efectoEntrada>1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>165</idCarta>
+			<nombre>Mahakaman Defender 1</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>166</idCarta>
+			<nombre>Mahakaman Defender 2</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>167</idCarta>
+			<nombre>Mahakaman Defender 3</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>168</idCarta>
+			<nombre>Mahakaman Defender 4</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>169</idCarta>
+			<nombre>Mahakaman Defender 5</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>170</idCarta>
+			<nombre>Vrihedd Brigade Veteran 1</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>-1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>true</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>171</idCarta>
+			<nombre>Vrihedd Brigade Veteran 2</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>-1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>true</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>172</idCarta>
+			<nombre>Vrihedd Brigade Recruit</nombre>
+			<valor>4</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>173</idCarta>
+			<nombre>Vrihedd Brigade Recruit</nombre>
+			<valor>4</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>174</idCarta>
+			<nombre>Dol Blathanna Archer</nombre>
+			<valor>4</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>175</idCarta>
+			<nombre>Dol Blathanna Archer</nombre>
+			<valor>4</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>176</idCarta>
+			<nombre>Francesca Findabair Daisy of the Valley</nombre>
+			<posicion>0</posicion>
+			<efectoEntrada>20</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+		<carta>
+			<idCarta>177</idCarta>
+			<nombre>Francesca Findabair Hope of the Aen Seidhe</nombre>
+			<posicion>2</posicion>
+			<efectoEntrada>21</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+		<carta>
+			<idCarta>178</idCarta>
+			<nombre>Francesca Findabair Pureblood Elf</nombre>
+			<posicion>0</posicion>
+			<efectoEntrada>12</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+		<carta>
+			<idCarta>179</idCarta>
+			<nombre>Francesca Findabair Queen of Dol Blathanna</nombre>
+			<posicion>0</posicion>
+			<efectoEntrada>3</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+		<carta>
+			<idCarta>180</idCarta>
+			<nombre>Francesca Findabair the Beautiful</nombre>
+			<posicion>1</posicion>
+			<efectoEntrada>4</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+	</baraja>
+	<baraja>
+		<idBaraja>4</idBaraja>
+		<nombre>Skellige</nombre>
+		<carta>
+			<idCarta>181</idCarta>
+			<nombre>Berserker</nombre>
+			<valor>4</valor>
+			<efectoEntrada>7</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>5</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>211</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>182</idCarta>
+			<nombre>Birna Bran</nombre>
+			<valor>2</valor>
+			<efectoEntrada>0</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>183</idCarta>
+			<nombre>Blueboy Lugos</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>184</idCarta>
+			<nombre>Cerys</nombre>
+			<valor>10</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+			<cartaRelacionada>190</cartaRelacionada>
+			<cartaRelacionada>191</cartaRelacionada>
+			<cartaRelacionada>192</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>185</idCarta>
+			<nombre>Clan an Craite Warrior</nombre>
+			<valor>6</valor>
+			<efectoEntrada>9</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>186</cartaRelacionada>
+			<cartaRelacionada>187</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>186</idCarta>
+			<nombre>Clan an Craite Warrior</nombre>
+			<valor>6</valor>
+			<efectoEntrada>9</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>185</cartaRelacionada>
+			<cartaRelacionada>187</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>187</idCarta>
+			<nombre>Clan an Craite Warrior</nombre>
+			<valor>6</valor>
+			<efectoEntrada>9</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>185</cartaRelacionada>
+			<cartaRelacionada>186</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>188</idCarta>
+			<nombre>Clan Brokvar Archer</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>189</idCarta>
+			<nombre>Clan Dimun Pirate</nombre>
+			<valor>6</valor>
+			<efectoEntrada>3</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>190</idCarta>
+			<nombre>Clan Drummond Shield Maiden 1</nombre>
+			<valor>4</valor>
+			<efectoEntrada>9</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>191</cartaRelacionada>
+			<cartaRelacionada>192</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>191</idCarta>
+			<nombre>Clan Drummond Shield Maiden 2</nombre>
+			<valor>4</valor>
+			<efectoEntrada>9</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>190</cartaRelacionada>
+			<cartaRelacionada>192</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>192</idCarta>
+			<nombre>Clan Drummond Shield Maiden 3</nombre>
+			<valor>4</valor>
+			<efectoEntrada>9</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>190</cartaRelacionada>
+			<cartaRelacionada>191</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>193</idCarta>
+			<nombre>Clan heymaey Skad</nombre>
+			<valor>4</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>194</idCarta>
+			<nombre>Clan Tordarroch Armorsmith</nombre>
+			<valor>4</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>195</idCarta>
+			<nombre>Donar an Hindar</nombre>
+			<valor>4</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>196</idCarta>
+			<nombre>Draig Bon-Dhu</nombre>
+			<valor>2</valor>
+			<efectoEntrada>4</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>197</idCarta>
+			<nombre>Ermion</nombre>
+			<valor>8</valor>
+			<efectoEntrada>5</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>199</idCarta>
+			<nombre>Hjalmar</nombre>
+			<valor>10</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>200</idCarta>
+			<nombre>Holger Blackhand</nombre>
+			<valor>4</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>201</idCarta>
+			<nombre>Kambi</nombre>
+			<valor>0</valor>
+			<efectoEntrada>6</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>5</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>198</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>202</idCarta>
+			<nombre>Light Longship</nombre>
+			<valor>4</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>203</cartaRelacionada>
+			<cartaRelacionada>204</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>203</idCarta>
+			<nombre>Light Longship</nombre>
+			<valor>4</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>202</cartaRelacionada>
+			<cartaRelacionada>204</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>204</idCarta>
+			<nombre>Light Longship</nombre>
+			<valor>4</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>1</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>202</cartaRelacionada>
+			<cartaRelacionada>203</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>205</idCarta>
+			<nombre>Madman Lugos</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>206</idCarta>
+			<nombre>Mardroeme</nombre>
+			<efectoEntrada>5</efectoEntrada>
+			
+			<posicion>-1</posicion>
+			<tipo>3</tipo>
+		</carta>
+		<carta>
+			<idCarta>207</idCarta>
+			<nombre>Mardroeme</nombre>
+			<efectoEntrada>5</efectoEntrada>
+			
+			<posicion>-1</posicion>
+			<tipo>3</tipo>
+		</carta>
+		<carta>
+			<idCarta>208</idCarta>
+			<nombre>Mardroeme</nombre>
+			<efectoEntrada>5</efectoEntrada>
+			
+			<posicion>-1</posicion>
+			<tipo>3</tipo>
+		</carta>
+		<carta>
+			<idCarta>209</idCarta>
+			<nombre>Olaf</nombre>
+			<valor>12</valor>
+			<efectoEntrada>1</efectoEntrada>
+			
+			<posicion>-1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>true</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>210</idCarta>
+			<nombre>Svanrige</nombre>
+			<valor>4</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>215</idCarta>
+			<nombre>Udalryk</nombre>
+			<valor>4</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>216</idCarta>
+			<nombre>War Longship</nombre>
+			<valor>6</valor>
+			<efectoEntrada>9</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>217</cartaRelacionada>
+			<cartaRelacionada>218</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>217</idCarta>
+			<nombre>War Longship</nombre>
+			<valor>6</valor>
+			<efectoEntrada>9</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>216</cartaRelacionada>
+			<cartaRelacionada>218</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>218</idCarta>
+			<nombre>War Longship</nombre>
+			<valor>6</valor>
+			<efectoEntrada>9</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>216</cartaRelacionada>
+			<cartaRelacionada>217</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>219</idCarta>
+			<nombre>Young Berserker</nombre>
+			<valor>2</valor>
+			<efectoEntrada>7</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>5</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>212</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>220</idCarta>
+			<nombre>Young Berserker</nombre>
+			<valor>2</valor>
+			<efectoEntrada>7</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>5</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>213</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>221</idCarta>
+			<nombre>Young Berserker</nombre>
+			<valor>2</valor>
+			<efectoEntrada>7</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>5</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>214</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>222</idCarta>
+			<nombre>Crach an Craite</nombre>
+			<posicion>0</posicion>
+			<efectoEntrada>22</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+		<carta>
+			<idCarta>223</idCarta>
+			<nombre>King Bran</nombre>
+			<posicion>0</posicion>
+			<efectoEntrada>23</efectoEntrada>
+			<tipo>1</tipo>
+		</carta>
+	</baraja>
+	<baraja>
+		<idBaraja>5</idBaraja>
+		<nombre>Neutral</nombre>
+		<carta>
+			<idCarta>224</idCarta>
+			<nombre>Avallac'h</nombre>
+			<valor>0</valor>
+			<efectoEntrada>2</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>true</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>226</idCarta>
+			<nombre>Cirilla Fiona Elen Riannon</nombre>
+			<valor>15</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>227</idCarta>
+			<nombre>Cow</nombre>
+			<valor>0</valor>
+			<efectoEntrada>6</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>5</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>225</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>228</idCarta>
+			<nombre>Dandelion</nombre>
+			<valor>2</valor>
+			<efectoEntrada>4</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>229</idCarta>
+			<nombre>Emil Regis Rohellec Terzierff</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>230</idCarta>
+			<nombre>Gaunter O'Dimm</nombre>
+			<valor>2</valor>
+			<efectoEntrada>8</efectoEntrada>
+			
+			<posicion>2</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>231</cartaRelacionada>
+			<cartaRelacionada>232</cartaRelacionada>
+			<cartaRelacionada>233</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>231</idCarta>
+			<nombre>Gaunter O'Dimm Darkness</nombre>
+			<valor>4</valor>
+			<efectoEntrada>8</efectoEntrada>			
+			<posicion>1</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>232</cartaRelacionada>
+			<cartaRelacionada>233</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>232</idCarta>
+			<nombre>Gaunter O'Dimm Darkness</nombre>
+			<valor>4</valor>
+			<efectoEntrada>8</efectoEntrada>			
+			<posicion>1</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>231</cartaRelacionada>
+			<cartaRelacionada>233</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>233</idCarta>
+			<nombre>Gaunter O'Dimm Darkness</nombre>
+			<valor>4</valor>
+			<efectoEntrada>8</efectoEntrada>			
+			<posicion>1</posicion>
+			<tipo>2</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+			<cartaRelacionada>231</cartaRelacionada>
+			<cartaRelacionada>232</cartaRelacionada>
+		</carta>
+		<carta>
+			<idCarta>234</idCarta>
+			<nombre>Geralt of Rivia</nombre>
+			<valor>15</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>235</idCarta>
+			<nombre>Olgierd von Everec</nombre>
+			<valor>6</valor>
+			<efectoEntrada>1</efectoEntrada>
+			<posicion>-1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>true</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>236</idCarta>
+			<nombre>Triss Merigold</nombre>
+			<valor>7</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>237</idCarta>
+			<nombre>Vesemir</nombre>
+			<valor>6</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>238</idCarta>
+			<nombre>Villentretenmerth</nombre>
+			<valor>7</valor>
+			<efectoEntrada>3</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>239</idCarta>
+			<nombre>Yennefer of Vengerberg</nombre>
+			<valor>7</valor>
+			<efectoEntrada>0</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>true</esHeroe>
+		</carta>
+		<carta>
+			<idCarta>240</idCarta>
+			<nombre>Zoltan Chivay</nombre>
+			<valor>5</valor>
+			<efectoEntrada>-1</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>0</tipo>
+			<esEspia>false</esEspia>
+			<esAgil>false</esAgil>
+			<esHeroe>false</esHeroe>
+		</carta>
+	</baraja>
+	<baraja>
+		<idBaraja>6</idBaraja>
+		<nombre>Especial</nombre>
+		<carta>
+			<idCarta>241</idCarta>
+			<nombre>Biting Frost</nombre>
+			<efectoEntrada>10</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>4</tipo>
+		</carta>
+		<carta>
+			<idCarta>242</idCarta>
+			<nombre>Biting Frost</nombre>
+			<efectoEntrada>10</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>4</tipo>
+		</carta>
+		<carta>
+			<idCarta>243</idCarta>
+			<nombre>Biting Frost</nombre>
+			<efectoEntrada>10</efectoEntrada>
+			<posicion>0</posicion>
+			<tipo>4</tipo>
+		</carta>
+		<carta>
+			<idCarta>244</idCarta>
+			<nombre>Clear Weather</nombre>
+			<efectoEntrada>10</efectoEntrada>
+			<posicion>4</posicion>
+			<tipo>4</tipo>
+		</carta>
+		<carta>
+			<idCarta>245</idCarta>
+			<nombre>Clear Weather</nombre>
+			<efectoEntrada>10</efectoEntrada>
+			<posicion>4</posicion>
+			<tipo>4</tipo>
+		</carta>
+		<carta>
+			<idCarta>246</idCarta>
+			<nombre>Clear Weather</nombre>
+			<efectoEntrada>10</efectoEntrada>
+			<posicion>4</posicion>
+			<tipo>4</tipo>
+		</carta>
+		<carta>
+			<idCarta>247</idCarta>
+			<nombre>Commander's Horn</nombre>
+			<posicion>-1</posicion>
+			<efectoEntrada>4</efectoEntrada>
+			<tipo>3</tipo>
+		</carta>
+		<carta>
+			<idCarta>248</idCarta>
+			<nombre>Commander's Horn</nombre>
+			<posicion>-1</posicion>
+			<efectoEntrada>4</efectoEntrada>
+			<tipo>3</tipo>
+		</carta>
+		<carta>
+			<idCarta>249</idCarta>
+			<nombre>Commander's Horn</nombre>
+			<posicion>-1</posicion>
+			<efectoEntrada>4</efectoEntrada>
+			<tipo>3</tipo>
+		</carta>
+		<carta>
+			<idCarta>250</idCarta>
+			<nombre>Decoy</nombre>
+			<efectoEntrada>11</efectoEntrada>
+			<posicion>-1</posicion>
+			<tipo>3</tipo>
+		</carta>
+		<carta>
+			<idCarta>251</idCarta>
+			<nombre>Decoy</nombre>
+			<efectoEntrada>11</efectoEntrada>
+			<posicion>-1</posicion>
+			<tipo>3</tipo>
+		</carta>
+		<carta>
+			<idCarta>252</idCarta>
+			<nombre>Decoy</nombre>
+			<efectoEntrada>11</efectoEntrada>
+			<posicion>-1</posicion>
+			<tipo>3</tipo>
+		</carta>
+		<carta>
+			<idCarta>253</idCarta>
+			<nombre>Impenetrable Fog</nombre>
+			<efectoEntrada>10</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>4</tipo>
+		</carta>
+		<carta>
+			<idCarta>254</idCarta>
+			<nombre>Impenetrable Fog</nombre>
+			<efectoEntrada>10</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>4</tipo>
+		</carta>
+		<carta>
+			<idCarta>255</idCarta>
+			<nombre>Impenetrable Fog</nombre>
+			<efectoEntrada>10</efectoEntrada>
+			<posicion>1</posicion>
+			<tipo>4</tipo>
+		</carta>
+		<carta>
+			<idCarta>256</idCarta>
+			<nombre>Scorch</nombre>
+			<efectoEntrada>3</efectoEntrada>
+			<posicion>3</posicion>
+			<tipo>3</tipo>
+		</carta>
+		<carta>
+			<idCarta>257</idCarta>
+			<nombre>Scorch</nombre>
+			<efectoEntrada>3</efectoEntrada>
+			<posicion>3</posicion>
+			<tipo>3</tipo>
+		</carta>
+		<carta>
+			<idCarta>258</idCarta>
+			<nombre>Scorch</nombre>
+			<efectoEntrada>3</efectoEntrada>
+			<posicion>3</posicion>
+			<tipo>3</tipo>
+		</carta>
+		<carta>
+			<idCarta>259</idCarta>
+			<nombre>Skellige Storm</nombre>
+			<efectoEntrada>10</efectoEntrada>
+			<posicion>3</posicion>
+			<tipo>4</tipo>
+		</carta>
+		<carta>
+			<idCarta>260</idCarta>
+			<nombre>Skellige Storm</nombre>
+			<efectoEntrada>10</efectoEntrada>
+			<posicion>3</posicion>
+			<tipo>4</tipo>
+		</carta>
+		<carta>
+			<idCarta>261</idCarta>
+			<nombre>Skellige Storm</nombre>
+			<efectoEntrada>10</efectoEntrada>
+			<posicion>3</posicion>
+			<tipo>4</tipo>
+		</carta>
+		<carta>
+			<idCarta>262</idCarta>
+			<nombre>Torrential Rain</nombre>
+			<efectoEntrada>10</efectoEntrada>
+			<posicion>2</posicion>
+			<tipo>4</tipo>
+		</carta>
+		<carta>
+			<idCarta>263</idCarta>
+			<nombre>Torrential Rain</nombre>
+			<efectoEntrada>10</efectoEntrada>
+			<posicion>2</posicion>
+			<tipo>4</tipo>
+		</carta>
+		<carta>
+			<idCarta>264</idCarta>
+			<nombre>Torrential Rain</nombre>
+			<efectoEntrada>10</efectoEntrada>
+			<posicion>2</posicion>
+			<tipo>4</tipo>
+		</carta>
+	</baraja>
+</cartas>
