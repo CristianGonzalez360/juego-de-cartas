@@ -9,7 +9,6 @@ public class DevolverAlMazo implements Efecto, Serializable {
 	@Override
 	public void entrada(Juego juego) {
 		juego.getTablero().devolverAlMazo();
-
 	}
 
 	@Override

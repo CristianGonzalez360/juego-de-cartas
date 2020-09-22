@@ -536,11 +536,10 @@ public class Tablero {
 	}
 
 	public void devolverAlMazo() {
-		for (Carta carta : descarte) {
+		for (Carta carta : getCartasRevivibles()) {
 			mazo.devolver(carta);
+			quitarCartaDeDescartes(carta, 0, true);
 		}
-		this.descarte.clear();
-		this.vista.vaciarDescartes();
 		this.mazo.mezclar();
 	}
 
