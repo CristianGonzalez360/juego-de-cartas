@@ -301,8 +301,8 @@ public class Graficos {
 	}
 	
 	public static ImageIcon cargarImagen(int ancho, int alto, String URL) {
-		ImageIcon imagen = new ImageIcon(Class.class.getResource(URL));
-		ImageIcon ret = new ImageIcon(imagen.getImage().getScaledInstance(ancho, alto, Image.SCALE_SMOOTH ));
+		Image imagen = new ImageIcon(Graficos.class.getResource(URL)).getImage();
+		ImageIcon ret = new ImageIcon(imagen.getScaledInstance(ancho, alto, Image.SCALE_SMOOTH ));
 		return ret;
 	}
 

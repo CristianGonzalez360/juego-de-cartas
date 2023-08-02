@@ -7,21 +7,15 @@ import java.awt.Font;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.util.List;
-import java.util.Timer;
-import java.util.TimerTask;
 import java.awt.BorderLayout;
 import javax.swing.JLabel;
 import javax.swing.border.EtchedBorder;
 import javax.swing.border.LineBorder;
 
-import org.omg.PortableServer.ServantRetentionPolicyValue;
-
 import interfaz.Graficos;
 import interfaz.editorMazo.VistaCarta;
 
 import java.awt.Color;
-import java.awt.Dimension;
-
 import javax.swing.SwingConstants;
 
 public class SelectorLider extends JPanel{
